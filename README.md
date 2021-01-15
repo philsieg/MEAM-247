@@ -5,7 +5,7 @@ Course resources for MEAM 247/248 students
 Created during the Fall 2020 Semester and Updated
 
 
-#Contents
+# ---Contents---
 ## Matlab Reviews
 matlab_review.mlx -- An interactive review/intro to MATLAB
 
